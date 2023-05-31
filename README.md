@@ -18,7 +18,7 @@
 
 ---
 **About Me**
-- Currently, I'm a *Blockchain, Backend, Frontend Developer* on Viet Nam. I started programming and researching blockchain since 2019,
+- Currently, I'm a *Blockchain, Backend, Frontend Developer* on Viet Nam. I started programming and researching blockchain since 2019
 - I have a passionate about coding, creating product about Blockchain to solve difficult problems in life.
 ---
 - Some technologies i enjoy working with include:
