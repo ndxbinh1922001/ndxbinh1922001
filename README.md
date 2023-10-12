@@ -23,9 +23,9 @@
 ---
 - Some technologies i enjoy working with include:
  - Front-end: ReactJs / NextJs 
- - Back-end: Node.js 
+ - Back-end: Node.js, NestJS
  - Database: MongoDb / MySQL 
- - Blockchain Foundation: Near Protocol 
+ - Blockchain: Near, Polkadot 
  - Languages: **Javascript** / **Typescript** / **Rust** / *Python* / *C++*
 ---
 
